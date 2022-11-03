@@ -1,0 +1,13 @@
+body {
+
+    color: #000000;
+    background-color: #4c86f3;
+  }
+
+
+.jumbotron {
+background-image: url("/Users/paolozambrano/Desktop/Todo/Data_Analyst_Projects/module_12/plotlydiploy/bacteria.jpg");
+background-size: 100% 100%;
+text-align: center;
+color: #ffffff;
+}
